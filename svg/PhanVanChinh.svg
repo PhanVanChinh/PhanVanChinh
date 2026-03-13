@@ -79,8 +79,10 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi!<br/>I'm PhanVanChinh dev from the D20 PTIT Hà Nội.
-        </div>
+			  Hi!<br>
+			  I'm PhanVanChinh dev<br>
+			  from the D20 PTIT Hà Nội.
+			</div>
         <div class="skills">
           <div class="skills_icon">
             <img
