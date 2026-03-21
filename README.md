@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<div>
+<!-- <div>
   <h3>React Movie API</h3>
   <p><span>Link demo: </span><a href="https://ankhang16062002.github.io/React-Movie/" color="red">https://ankhang16062002.github.io/React-Movie/</a></span></p>
   <p>Technologies: Front-end: HTML SCSS ReactJS ---- API: The movie DB</p>
@@ -24,7 +24,7 @@
 </div>
 <br>
 
-<div>
+<div> -->
   <h3>Resposive Restaurant theme</h3>
   <p><span>Link demo: </span><a href="https://food-restaurant-web.netlify.app/" color="red">https://food-restaurant-web.netlify.app/</a></p>
   <p>Technologies: Front-end: HTML SCSS Javascript SwiperJS Gallery-causuels</p>
