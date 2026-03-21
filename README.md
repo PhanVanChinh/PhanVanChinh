@@ -69,13 +69,10 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/phan.v.chinh.2024" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="ankhangdev-facebook" />
-  </a>
-  <a href="https://www.instagram.com/khangvuongan/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="ankhangdev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phanvanchinh-facebook" />
   </a>
   <a href="mailto:phanvanchinh32@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="ankhangdev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phanvanchinh-email" />
   </a>
 </div>
 
