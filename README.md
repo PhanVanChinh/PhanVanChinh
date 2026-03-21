@@ -3,12 +3,7 @@
 </a>
 <br>
 
-<div>
-  <h2>My blog: </h2>
-  <p>Technologies: Front-end: ReactJS, Javascript, SCSS ---- Back-end: NodeJS Express</p>
-  <p><span>Link blog: <a href="https://myblogs1606.herokuapp.com/" color="red">https://myblogs1606.herokuapp.com/</a></span></p>
-  <p><span>My repositories: <a href="https://myblogs1606.herokuapp.com/" color="red">https://myblogs1606.herokuapp.com/</a></p>
-</div>
+
 
 <h2 align="center">🛠 Featured Project 🛠</h2>
 <br>
