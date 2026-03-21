@@ -28,7 +28,7 @@
   <h3>Resposive Restaurant theme</h3>
   <p><span>Link demo: </span><a href="https://food-restaurant-web.netlify.app/" color="red">https://food-restaurant-web.netlify.app/</a></p>
   <p>Technologies: Front-end: HTML SCSS Javascript SwiperJS Gallery-causuels</p>
-  <p><span>My repositories: </span><a href="https://github.com/ankhang16062002/Resposive-Food-Restaurant-Website" color="red">https://github.com/ankhang16062002/Resposive-Food-Restaurant-Website</a></p>
+  <p><span>My repositories: </span><a href="https://github.com/PhanVanChinh/Resposive-Food-Restaurant-Website" color="red">https://github.com/PhanVanChinh/Resposive-Food-Restaurant-Website</a></p>
 </div>
 <br>
 
