@@ -12,7 +12,7 @@
   <h3>Chirstmas-website</h3>
   <p><span>Link demo: </span><a href="https://chirtmas-website.netlify.app/" color="red">https://chirtmas-website.netlify.app</a></p>
   <p>Technologies: Front-end: HTML SCSS Javascript AOS</p>
-  <p><span>My repositories: <span><a href="https://github.com/ankhang16062002/Chirstmas-website" color="red">https://github.com/ankhang16062002/Chirstmas-website</a></p>
+  <p><span>My repositories: <span><a href="https://github.com/ankhang16062002/Chirstmas-website"color="red">https://github.com/ankhang16062002/Chirstmas-website</a></p>
 </div>
 <br>
 
