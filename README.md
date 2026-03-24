@@ -10,23 +10,12 @@
 
 <div>
   <h3>Chirstmas-website</h3>
-  <p><span>Link demo: </span><a href="https://chirtmas-website.netlify.app/" color="red">https://chirtmas-website.netlify.app</a></p>
   <p>Technologies: Front-end: HTML SCSS Javascript AOS</p>
   <p><span>My repositories: <span><a href="https://github.com/PhanVanChinh/Chirstmas-website"color="red">https://github.com/PhanVanChinh/Chirstmas-website</a></p>
 </div>
 <br>
-
-<!-- <div>
-  <h3>React Movie API</h3>
-  <p><span>Link demo: </span><a href="https://ankhang16062002.github.io/React-Movie/" color="red">https://ankhang16062002.github.io/React-Movie/</a></span></p>
-  <p>Technologies: Front-end: HTML SCSS ReactJS ---- API: The movie DB</p>
-  <p><span>My repositories: <a href="https://github.com/ankhang16062002/React-Movie" color="red">https://github.com/ankhang16062002/React-Movie</a></p>
-</div>
-<br>
-
-<div> -->
   <h3>Resposive Restaurant theme</h3>
-  <p><span>Link demo: </span><a href="https://food-restaurant-web.netlify.app/" color="red">https://food-restaurant-web.netlify.app/</a></p>
+  <p><span>Link demo: </span><a href="http://phanvanchinhresposive.website/" color="red">http://phanvanchinhresposive.website/</a></p>
   <p>Technologies: Front-end: HTML SCSS Javascript SwiperJS Gallery-causuels</p>
   <p><span>My repositories: </span><a href="https://github.com/PhanVanChinh/Resposive-Food-Restaurant-Website" color="red">https://github.com/PhanVanChinh/Resposive-Food-Restaurant-Website</a></p>
 </div>
